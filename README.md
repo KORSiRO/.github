@@ -1,6 +1,6 @@
 # KORSiRO  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KORSiRO&label=Profile%20views&color=c9cacc&style=flat" alt="KORSiRO" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KORSiRO&label=Profile%20views&color=E02044&&style=flat" alt="KORSiRO" /> </p>  
 
 This github is here to help as much as possible in several areas that fascinate me.  
 3D printing and Computer science are the main subjects.  
