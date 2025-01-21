@@ -5,7 +5,7 @@
 This github is here to help as much as possible in several areas that fascinate me.  
 3D printing and Computer science are the main subjects.  
 
-## 3DFi - 3d Filament Inventory
+## 3DFi
 [![3DFi - 3d Filament Inventory](https://github-readme-stats.vercel.app/api/pin/?username=KORSiRO&repo=3DFi_3D-Filament-Inventory&title_color=ffffff&text_color=c9cacc&icon_color=E02044&bg_color=1d1f21)](https://github.com/KORSiRO/3DFi_3D-Filament-Inventory)
 
 ## Creality K1 & K1 MAX
